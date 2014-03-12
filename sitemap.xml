@@ -5,56 +5,56 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/index.html</loc>
-<lastmod>2014-03-11T20:44:38-00:00</lastmod>
+<lastmod>2014-03-12T04:34:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2014-03-11T20:44:38-00:00</lastmod>
+<lastmod>2014-03-12T04:34:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2014-03-11T20:44:38-00:00</lastmod>
+<lastmod>2014-03-12T04:34:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2014-03-11T20:44:38-00:00</lastmod>
+<lastmod>2014-03-12T04:34:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/shell/introducing-the-shell.html</loc>
-<lastmod>2014-03-11T20:44:38-00:00</lastmod>
+<lastmod>2014-03-12T04:34:33-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/lessons/introduction.html</loc>
-<lastmod>2014-03-11T20:44:38-00:00</lastmod>
+<lastmod>2014-03-12T04:34:33-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/lessons/numpy-notebook.html</loc>
-<lastmod>2014-03-11T20:44:38-00:00</lastmod>
+<lastmod>2014-03-12T04:34:33-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/shell/the-unix-shell.html</loc>
-<lastmod>2014-03-11T20:44:38-00:00</lastmod>
+<lastmod>2014-03-12T04:34:33-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
